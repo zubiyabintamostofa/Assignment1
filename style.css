@@ -117,6 +117,9 @@ width: 50%;
             border-left: 5px solid red;
             padding-right: 10%;
         }
+        .lily h1{
+            text-align: start;
+        }
         .mission-item{
             width: 33.34%;
             margin-right:20px ;
@@ -132,11 +135,9 @@ width: 50%;
         .mission-item3{
             background-color: teal;
         }
-        .hero-section2{
-            display: flex;
+        
 
-
-        }
+        
         .right img{
             width: 500px;
 
@@ -169,6 +170,9 @@ width: 50%;
         footer {
             text-align: center;
             background-color:navajowhite;}
+            .left1 h1{
+text-align: start;
+            }
 
 
 
