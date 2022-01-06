@@ -38,3 +38,33 @@ h1{
 .third{
     color: orangered;
 }
+.half-width2{
+    width: 50%;
+    padding-left:5% ;
+}
+.half-width2 img{
+    width: 50%;
+}
+
+.half-width3{
+    width: 50%;
+    padding-left:5% ;
+}
+.half-width3 img{
+    width: 50%;
+}
+
+.half-width4{
+    width: 50%;
+    padding-left:5% ;
+   
+
+}
+.half-width4 img{
+    width: 50%;
+    
+}
+.class{
+    display: flex;
+    
+}
