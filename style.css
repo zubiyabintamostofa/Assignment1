@@ -47,9 +47,9 @@ h1{
     color: orangered;
 }
 .half-width2{
-    width: 50%;
+    
     padding-left:5% ;
-    background-color: skyblue;
+   
     
 }
 #sapla{
@@ -60,19 +60,19 @@ h1{
 }
 
 .half-width3{
-    width: 50%;
+    
     padding-left:5% ;
-    background-color: lightslategray;
+
 }
 .half-width3 img{
-    width: 50%;
+width: 50%;
 }
 
 .half-width4{
-    width: 50%;
+    
     padding-left:1% ;
     padding-right: 1%;
-    background-color: lightpink;
+    
     
    
 
@@ -91,13 +91,15 @@ h1{
     border-radius: 6px;}
 
     .half-width5{
-        width: 50%;
         padding-right:10% ;
     
     }
+    .developer-title h1{
+        text-align:start ;
+
+    }
     .half-width5 img{
-        width: 100%;
-        padding-right: 10%;
+        width: 500px;
     
     }
     .class{
@@ -117,7 +119,56 @@ h1{
         }
         .mission-item{
             width: 33.34%;
+            margin-right:20px ;
+            border-radius: 10px;
         }
+        .mission-item1{
+            background-color: skyblue;
+
+        }
+        .mission-item2{
+            background-color: tan;
+        }
+        .mission-item3{
+            background-color: teal;
+        }
+        .hero-section2{
+            display: flex;
+
+
+        }
+        .right img{
+            width: 500px;
+
+        }
+        
+
+        .one{
+            color: tomato;
+        }
+        .left3 img{
+            width: 60%;
+        
+        
+
+        }
+        .left6{
+            display: flex;
+        }
+        .left7{
+            text-align: center;
+        }.left9{
+            color: tomato;
+        }
+        .left11{
+            display: flex;
+        }.span1{
+            color: tomato;
+            
+        }
+        footer {
+            text-align: center;
+            background-color:navajowhite;}
 
 
 
